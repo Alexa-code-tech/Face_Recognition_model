@@ -34,5 +34,5 @@ This project is licensed under the MIT License.
 
 ## Contact Information
 For inquiries, please reach out to:
-- **Email**: example@example.com
+- **Email**: alya.fedora@list.ru
 - **GitHub**: [Alexa-code-tech](https://github.com/Alexa-code-tech)
