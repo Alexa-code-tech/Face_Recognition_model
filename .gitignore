@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+# Mac OS
+.DS_Store
+# Jupyter Notebook
+.ipynb_checkpoints/
+# Virtual Environment
+env/
+venv/
+ENV/
+# Other
+*.log
+*.tmp
+*.bak
+*.zip
+*.tar.gz
